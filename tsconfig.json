@@ -19,7 +19,8 @@
       "es2018"
     ],
     "downlevelIteration": true,
-    "rootDir": "src"
+    "rootDir": "src",
+    "newLine": "lf"
   },
   "paths": {
     "*":  [
