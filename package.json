@@ -1,6 +1,6 @@
 {
   "name": "@bartekbp/regex-checkstyle",
-  "version": "5.0.0-0",
+  "version": "5.0.0",
   "description": "Library reporting regex output in checkstyle format",
   "main": "dist/index.js",
   "bin": "dist/cli.js",
